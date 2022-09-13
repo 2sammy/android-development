@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">About Sammy</string>
+    <string name="name">samuel manoah</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">In line 11, the default integer format is specified for the integer variable,
+       \n\n int_num, while
+\n\n the statement in line 12 specifies the integer format with a precision specifier that indcates that
+     \n\n   the maximum field width is eight characters long. Therefore, you see that five
+\n zeros are padded prior to the integer 123 in the second line of the output.
+\n For the floating-point variable, flt_num, line 13 prints out the floating-point value in the
+\n default format, and line 14 reduces the decimal places to two by putting the precision
+\n specifier .2 within the format specifier %-10.2f. Note here that left-justification is also
+\n specified by the minus sign (-) in the floating-point format specifier.
+\nIn line 11, the default integer format is specified for the integer variable, int_num, while
+the statement in line 12 specifies the integer format with a precision specifier that
+        indicates that the maximum field width is eight characters long. Therefore, you see that five
+\n zeros are padded prior to the integer 123 in the second line of the output.
+\n For the floating-point variable, flt_num, line 13 prints out the floating-point value in the
+default
+        \n format, and line 14 reduces the decimal places to two by putting the precision
+specifier .2 within the format specifier %-10.2f. Note here that left-justification is also
+specified by the minus sign (-) in the floating-point format specifier.
+    </string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="Done">Done</string>
+
+
+</resources>
